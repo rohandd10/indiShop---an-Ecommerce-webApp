@@ -1,0 +1,14 @@
+.CardWrapper {
+    width: 280px;
+    height: 350px;
+    cursor: pointer;
+    text-align: center;
+}
+.CardWrapper img {
+    height: 240px;
+}
+
+.CardWrapper:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transform: translateY(-1rem);
+}

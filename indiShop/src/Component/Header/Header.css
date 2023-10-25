@@ -1,0 +1,10 @@
+.wrapperMain {
+    display:flex;
+    align-items:center;
+    font-size: 16px;
+    margin: 0 40% 0;
+    gap: 15px;
+}
+.loginBtn {
+    width: 150px;
+}
